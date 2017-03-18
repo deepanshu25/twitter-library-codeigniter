@@ -6,6 +6,6 @@ Create Twitter App on
 
 and update the following details to use on your Codeigniter Framework
 
-TWITTER_CONSUMERKEY : Use the Twitter Consumer Key
+TWITTER_CONSUMERKEY : Use the Twitter Consumer Key<br/>
 TWITTER_SECRET : Use the Twitter Secret
 

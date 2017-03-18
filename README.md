@@ -1,1 +1,1 @@
-# twitter-library-codeigniter
+# Twitter Library Codeigniter
